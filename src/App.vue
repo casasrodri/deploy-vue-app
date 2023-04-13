@@ -5,7 +5,7 @@ import User from './components/User.vue'
 
 <template>
   <header>
-      <h1>App.vue</h1>
+      <h1>Contactos</h1>
       <!-- <Test greeting-message="Holaaa" /> -->
       <User />
   </header>
